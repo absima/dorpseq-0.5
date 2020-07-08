@@ -1,0 +1,5 @@
+samples,expected_cells,read_length,batch
+MMus_nuc_fresh_rep1,5,61,Batch1
+MMus_nuc_fresh_rep2,5,61,Batch1
+sample2,5,76,Batch1
+sample_x1,5,76,Batch1

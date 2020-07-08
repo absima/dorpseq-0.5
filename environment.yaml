@@ -1,0 +1,19 @@
+channels:
+  - r
+  - conda-forge
+  - bioconda
+dependencies:
+  - r=3.4.1
+  - readline=6.2
+  - picard=2.14.1.0
+  - seqkit=0.10.2-0
+  - r-ggplot2
+  - r-ggpubr
+  - r-gridextra
+  - r-reshape2
+  - r-viridis
+  - r-stringdist
+  - r-reshape2
+  - icu=54
+  - ncurses
+  - trimmomatic
